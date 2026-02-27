@@ -11,6 +11,18 @@
 
 ### Capturas Zoe
 
+1. Android Studio
+
+![Captura Android Zoe](/capturas/captura_android_zoe.png "Android Studio")
+
+2. GitHub Desktop
+
+![Captura GitHub Zoe](/capturas/captura_github_zoe.png "GitHub Desktop")
+
+3. Docker
+
+![Captura Docker Zoe](/capturas/captura_docker_zoe.png "Docker")
+
 ### Capturas Jacqueline
 
 ### Capturas Brandon
