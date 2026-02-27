@@ -33,7 +33,7 @@
                 android:layout_height="wrap_content"
                 android:text="ALU y Transistores"
                 android:textColor="@color/white"
-                android:textSize="24dp"
+                android:textSize="24sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:text="El nivel atómico de la computación"
                 android:textColor="@color/white"
-                android:textSize="16dp"
+                android:textSize="16sp"
                 android:textStyle="italic" />
         </LinearLayout>
 
