@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Practica1">
         <activity
-            android:name=".MainActivity"
+            android:name=".FourthActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
