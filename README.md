@@ -13,9 +13,9 @@
 
 ### Capturas Jacqueline
 
-### Capturas Brandon
+### Capturas Michel
 
-### Capturas Integrante 4
+### Capturas Brandon
 
 ## Ejercicio 2: Navegación Creativa
 
