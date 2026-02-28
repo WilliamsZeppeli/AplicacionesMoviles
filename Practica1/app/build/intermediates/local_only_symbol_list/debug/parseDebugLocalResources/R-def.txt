@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable bg
+drawable cpu_e1551228076500
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable intel_vs_amd
+font poppins
+id appBarLayout
+id btnBack
+id btnNext
+id definition
+id fragmentContainerView4
+id headline
+id imageView
+id imageView2
+id main
+id scrollViewThirdActivity
+id secondText
+id subtitle
+id subtitulo4
+id titleCPU
+layout activity_third
+layout fragment_third
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.Practica1
+style Theme.Practica1
+xml backup_rules
+xml data_extraction_rules
