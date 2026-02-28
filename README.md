@@ -14,11 +14,11 @@
 ### Capturas Jacqueline
 
 1. Android Studio
-![Captura Android Jacqueline](/capturas/Quintanar_Bravo_Jacqueline_Williams/AndroidStudio-QuintanarBravo.png "Android Studio")
+![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/AndroidStudio-QuintanarBravo.png "Android Studio")
 2. Docker
-![Captura Android Jacqueline](/capturas/Quintanar_Bravo_Jacqueline_Williams/Docker-QuintanarBravo.png "Docker")
+![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/Docker-QuintanarBravo.png "Docker")
 3. GitHub Desktop
-![Captura Android Jacqueline](/capturas/Quintanar_Bravo_Jacqueline_Williams/GitHubDesktop-QuintanarBravo.png "GitHub Desktop")
+![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/GitHubDesktop-QuintanarBravo.png "GitHub Desktop")
 
 
 ### Capturas Brandon
