@@ -34,3 +34,10 @@
 ### Instrucciones de ejecución
 
 ### Capturas de Programa Funcional
+
+## Ranking de Computadoras
+### 🥇
+
+### 🥈
+
+### 🥉
