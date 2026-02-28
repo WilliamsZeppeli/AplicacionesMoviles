@@ -4,8 +4,8 @@
 
 - González Rodríguez Zoe - [ZoeGR14](https://github.com/ZoeGR14)
 - Quintanar Bravo Jacqueline Williams - [WilliamsZeppelli](https://github.com/WilliamsZeppeli)
+- Vázquez Hernández Michel - [Jimmysito316](https://github.com/Jimmysito316)
 - Vazquez Segura Brandon - [PandaKiller05](https://github.com/PandaKiller05)
-- Integrante 4 - [Jimmysito316](https://github.com/Jimmysito316)
 
 ## Ejercicio 1: Instalación de Herramientas
 
