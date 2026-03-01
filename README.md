@@ -35,6 +35,12 @@
 ### Capturas Michel
 
 ### Capturas Brandon
+1. Android Studio
+   ![Captura Android Brandon](/capturas/Android_Brandon.png "Android Studio")
+2. Docker
+   ![Captura Docker Brandon](/capturas/Doker_Brandon.png "Docker")
+3. GitHub Desktop
+   ![Captura GitHub Brandon](/capturas/Github_Brandon.png "GitHub Desktop")
 
 ## Ejercicio 2: Navegación Creativa
 
