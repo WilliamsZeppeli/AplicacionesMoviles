@@ -87,5 +87,7 @@ Ejecutar en un emulador con API 34 o superior, o conectar un dispositivo físico
 
 ### 🥈
 
-### 🥉
+### 🥉 Huawei 14 Intel Core Ultra 5
+![Captura PC Brandon](/capturas/PC_Brandon.png "PC de Brandon")
+
 Huawei 14T Intel Core I5 11th
