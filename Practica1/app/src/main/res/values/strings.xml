@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Practica1</string>
+<<<<<<< HEAD
     <!-- TODO: Remove or change this placeholder text -->
+=======
+>>>>>>> 6539d1591f4514d46b0ce0488f274bedb03140ab
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -25,6 +25,13 @@
 
 ### Capturas Jacqueline
 
+1. Android Studio
+   ![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/AndroidStudio-QuintanarBravo.png "Android Studio")
+1. Docker
+   ![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/Docker-QuintanarBravo.png "Docker")
+1. GitHub Desktop
+   ![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/GitHubDesktop-QuintanarBravo.png "GitHub Desktop")
+
 ### Capturas Michel
 
 ### Capturas Brandon
@@ -48,6 +55,7 @@
 ### Capturas de Programa Funcional
 
 ## Ranking de Computadoras
+
 ### 🥇
 
 ### 🥈
