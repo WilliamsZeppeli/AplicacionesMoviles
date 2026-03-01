@@ -34,6 +34,13 @@
 
 ### Capturas Michel
 
+1. **Android Studio**
+   ![Captura Android Michel](capturas/Android_Michel.jpg "Android Studio")
+
+2. **GitHub Desktop**
+   ![Captura GitHub Michel](capturas/Github_Michel.jpg "GitHub Michel")
+
+
 ### Capturas Brandon
 1. Android Studio
    ![Captura Android Brandon](/capturas/Android_Brandon.png "Android Studio")
