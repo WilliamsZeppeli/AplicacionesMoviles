@@ -9,9 +9,11 @@ drawable cpu_e1551228076500
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable intel_vs_amd
+drawable tarjeta_madre
 font poppins
 id appBarLayout
 id btnBack
+id btnInspectCPU
 id btnNext
 id btnRegresar
 id codeVHDL
@@ -26,6 +28,7 @@ id imageView
 id imageView2
 id imgAlu
 id imgCPU
+id imgMotherboard
 id main
 id scrollView4
 id scrollViewThirdActivity
@@ -37,6 +40,7 @@ id titulo4
 id tituloCuriosidad
 id tituloDefAlu
 layout activity_fourth
+layout activity_mobo
 layout activity_third
 layout fragment_fourth
 layout fragment_third

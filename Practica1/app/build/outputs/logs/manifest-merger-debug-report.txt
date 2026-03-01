@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\PC\.gradle\caches\9.1.0\transforms\605bb8e1c8fa542fd216c10b78fd0c1a\workspace\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\PC\.gradle\caches\9.1.0\transforms\97ae59d80d5a46d6bc91cc0c8e8ef36f\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\PC\.gradle\caches\9.1.0\transforms\f1d2b560c4750cc4b488cc423b521077\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -59,8 +59,8 @@ MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users
 	xmlns:android
 		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:5:5-26:19
-INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:5:5-29:19
+INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:5:5-29:19
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\PC\.gradle\caches\9.1.0\transforms\605bb8e1c8fa542fd216c10b78fd0c1a\workspace\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\PC\.gradle\caches\9.1.0\transforms\605bb8e1c8fa542fd216c10b78fd0c1a\workspace\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\PC\.gradle\caches\9.1.0\transforms\97ae59d80d5a46d6bc91cc0c8e8ef36f\workspace\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -98,17 +98,23 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PC\.gradle\caches\
 	android:dataExtractionRules
 		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.example.practica1.FourthActivity
-ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:15:9-19:20
+ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:15:9-18:20
 	android:exported
 		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:16:13-43
-activity#com.example.practica1.ThirdActivity
-ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:21:9-24:20
+activity#com.example.practica1.SecondActivity
+ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:19:9-22:20
 	android:exported
-		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:22:13-42
+		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:20:13-43
+activity#com.example.practica1.ThirdActivity
+ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:24:9-27:20
+	android:exported
+		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml:25:13-42
 uses-sdk
 INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\AndroidManifest.xml
