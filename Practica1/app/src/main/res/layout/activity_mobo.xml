@@ -63,6 +63,14 @@
                 android:text="La tarjeta madre o motherboard es la placa principal que conecta todos los componentes de la computadora. Aquí se instalan módulos esenciales como:\n\n• Memoria RAM\n• Unidades de Almacenamiento\n• Puertos de expansión (PCIe, SATA)\n\nActúa como la vía de comunicación principal para que el cerebro de la máquina pueda enviar instrucciones al resto del hardware."
                 android:textSize="16sp"
                 android:textColor="#555555"/>
+
+            <androidx.fragment.app.FragmentContainerView
+                android:id="@+id/fragmentGamasMobo"
+                android:name="com.example.practica1.GamasMoboFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp" />
         </LinearLayout>
     </ScrollView>
 

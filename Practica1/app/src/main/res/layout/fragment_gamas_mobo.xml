@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#E8EAF6"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:layout_marginVertical="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clasificación por Gamas (Chipsets)"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#333333"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gama de Entrada (Ej. A620 / H610)"
+        android:textStyle="bold"
+        android:textColor="#2E7D32"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Diseñadas para tareas básicas y ofimática. Cuentan con las ranuras justas para RAM y almacenamiento. Ideales para presupuestos ajustados."
+        android:textSize="14sp"
+        android:textColor="#555555"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gama Media (Ej. B650 / B760)"
+        android:textStyle="bold"
+        android:textColor="#1565C0"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El punto dulce calidad-precio. Perfectas para armar un buen setup y correr campañas completas de Halo o Assassin's Creed sin preocuparte por cuellos de botella."
+        android:textSize="14sp"
+        android:textColor="#555555"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gama Alta (Ej. X670 / Z790)"
+        android:textStyle="bold"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Para entusiastas y workstations. Cuentan con disipación robusta (VRMs) y máxima conectividad. Ideales si necesitas levantar varios contenedores en Docker, compilar microservicios con FastAPI o gestionar despliegues locales antes de subirlos a Azure."
+        android:textSize="14sp"
+        android:textColor="#555555"/>
+
+</LinearLayout>
