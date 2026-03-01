@@ -6,6 +6,7 @@ drawable alu
 drawable bg
 drawable cpu
 drawable cpu_e1551228076500
+drawable gabinete_gamer
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable intel_vs_amd
@@ -14,11 +15,13 @@ font poppins
 id appBarLayout
 id btnBack
 id btnInspectCPU
+id btnIrAMobo
 id btnNext
 id btnRegresar
 id codeVHDL
 id constraintPrincipal4
 id constraintTitulo4
+id contenedor_fragment
 id defAlu
 id definition
 id fragmentContainerView4
@@ -40,9 +43,11 @@ id titulo4
 id tituloCuriosidad
 id tituloDefAlu
 layout activity_fourth
+layout activity_main
 layout activity_mobo
 layout activity_third
 layout fragment_fourth
+layout fragment_gabinete
 layout fragment_third
 mipmap ic_launcher
 mipmap ic_launcher_round

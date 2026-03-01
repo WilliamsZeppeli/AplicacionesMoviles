@@ -1,74 +1,86 @@
 [
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\layout_activity_third.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\layout\\activity_third.xml"
+        "merged": "com.example.practica1.app-debug-34:/layout_fragment_third.xml.flat",
+        "source": "com.example.practica1.app-main-36:/layout/fragment_third.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\drawable_cpu_e1551228076500.jpg.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\drawable\\cpu_e1551228076500.jpg"
+        "merged": "com.example.practica1.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.practica1.app-main-36:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\drawable_intel_vs_amd.webp.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\drawable\\intel_vs_amd.webp"
+        "merged": "com.example.practica1.app-debug-34:/drawable_bg.webp.flat",
+        "source": "com.example.practica1.app-main-36:/drawable/bg.webp"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\layout_activity_fourth.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\layout\\activity_fourth.xml"
+        "merged": "com.example.practica1.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.practica1.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.practica1.app-debug-34:/drawable-nodpi_cpu.png.flat",
+        "source": "com.example.practica1.app-main-36:/drawable-nodpi/cpu.png"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\xml\\backup_rules.xml"
+        "merged": "com.example.practica1.app-debug-34:/font_poppins.ttf.flat",
+        "source": "com.example.practica1.app-main-36:/font/poppins.ttf"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\drawable-nodpi_alu.png.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\drawable-nodpi\\alu.png"
+        "merged": "com.example.practica1.app-debug-34:/layout_activity_mobo.xml.flat",
+        "source": "com.example.practica1.app-main-36:/layout/activity_mobo.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.practica1.app-debug-34:/layout_activity_fourth.xml.flat",
+        "source": "com.example.practica1.app-main-36:/layout/activity_fourth.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\font_poppins.ttf.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\font\\poppins.ttf"
+        "merged": "com.example.practica1.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.practica1.app-main-36:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\drawable-nodpi_cpu.png.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\drawable-nodpi\\cpu.png"
+        "merged": "com.example.practica1.app-debug-34:/layout_fragment_gabinete.xml.flat",
+        "source": "com.example.practica1.app-main-36:/layout/fragment_gabinete.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.practica1.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.practica1.app-main-36:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.practica1.app-debug-33:/drawable_tarjeta_madre.jpg.flat",
-        "source": "com.example.practica1.app-main-35:/drawable/tarjeta_madre.jpg"
+        "merged": "com.example.practica1.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.practica1.app-main-36:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.practica1.app-debug-34:/drawable-nodpi_alu.png.flat",
+        "source": "com.example.practica1.app-main-36:/drawable-nodpi/alu.png"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\drawable_bg.webp.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\drawable\\bg.webp"
+        "merged": "com.example.practica1.app-debug-34:/drawable_gabinete_gamer.jpg.flat",
+        "source": "com.example.practica1.app-main-36:/drawable/gabinete_gamer.jpg"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\layout_fragment_third.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\layout\\fragment_third.xml"
+        "merged": "com.example.practica1.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.practica1.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\layout_fragment_fourth.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\layout\\fragment_fourth.xml"
+        "merged": "com.example.practica1.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.practica1.app-main-36:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\PC\\.gradle\\daemon\\9.1.0\\com.example.practica1.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.practica1.app-debug-34:/layout_fragment_fourth.xml.flat",
+        "source": "com.example.practica1.app-main-36:/layout/fragment_fourth.xml"
     },
     {
-        "merged": "com.example.practica1.app-debug-33:/layout_activity_mobo.xml.flat",
-        "source": "com.example.practica1.app-main-35:/layout/activity_mobo.xml"
+        "merged": "com.example.practica1.app-debug-34:/drawable_intel_vs_amd.webp.flat",
+        "source": "com.example.practica1.app-main-36:/drawable/intel_vs_amd.webp"
+    },
+    {
+        "merged": "com.example.practica1.app-debug-34:/drawable_tarjeta_madre.jpg.flat",
+        "source": "com.example.practica1.app-main-36:/drawable/tarjeta_madre.jpg"
+    },
+    {
+        "merged": "com.example.practica1.app-debug-34:/layout_activity_third.xml.flat",
+        "source": "com.example.practica1.app-main-36:/layout/activity_third.xml"
+    },
+    {
+        "merged": "com.example.practica1.app-debug-34:/drawable_cpu_e1551228076500.jpg.flat",
+        "source": "com.example.practica1.app-main-36:/drawable/cpu_e1551228076500.jpg"
     }
 ]
