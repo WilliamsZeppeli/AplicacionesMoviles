@@ -4,7 +4,7 @@
             "outputFile": "com.example.practica1.app-mergeDebugResources-31:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jacky\\.gradle\\caches\\9.1.0\\transforms\\4c7445aa9b979c7f116c26d363d94998\\workspace\\transformed\\material-1.10.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\9.1.0\\transforms\\605bb8e1c8fa542fd216c10b78fd0c1a\\workspace\\transformed\\material-1.10.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

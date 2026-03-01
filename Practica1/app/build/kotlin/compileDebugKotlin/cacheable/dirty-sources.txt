@@ -1,0 +1,4 @@
+D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\java\com\example\practica1\FourthFragment.kt
+D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\java\com\example\practica1\FourthActivity.kt
+D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\java\com\example\practica1\ThirdFragment.kt
+D:\PC\Documents\Universidad\05_Moviles\AplicacionesMoviles\Practica1\app\src\main\java\com\example\practica1\ThirdActivity.kt
