@@ -46,7 +46,10 @@
 
 ### Descripción de Activities
 
-- MainActivity: PC
+- MainActivity: PC Michel Vazquez Hernandez
+  MainActivity: Es el punto de entrada de la aplicación. Su función principal es servir como base para el primer nivel de navegación y contener el botón de acceso al siguiente nivel.
+
+FragmentGabinete: Es un componente modular que muestra la vista global del sistema (Gabinete). Contiene la información visual del hardware externo y se carga dinámicamente al iniciar la app.
 
 - SecondActivity: MotherBoard
 
@@ -56,9 +59,20 @@
 
 ### Manejo de transiciones y ciclo de vida
 
+Vazquez Michel
+-Para manejar las transiciones, utilizamos un Intent explícito que permite la navegación entre MainActivity y SecondActivity. Al presionar el botón, la actividad actual entra en estado onPause() y onStop(), mientras que la nueva actividad inicia su ciclo con onCreate() y onStart(). El uso de un Fragment permite que la interfaz sea más eficiente, ya que no se recrea toda la pantalla, solo se reemplaza el contenedor mediante un FragmentTransaction."
+
 ### Instrucciones de ejecución
+Clonar el repositorio desde GitHub.
+
+Abrir el proyecto en Android Studio (asegúrarse de tener instalada la versión Jellyfish o superior).
+
+Sincronizar el proyecto con los archivos de Gradle.
+
+Ejecutar en un emulador con API 34 o superior, o conectar un dispositivo físico mediante Depuración USB.
 
 ### Capturas de Programa Funcional
+
 
 ## Ranking de Computadoras
 
@@ -67,3 +81,4 @@
 ### 🥈
 
 ### 🥉
+Huawei 14T Intel Core I5 11th
