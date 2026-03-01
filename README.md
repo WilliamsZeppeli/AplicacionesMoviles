@@ -13,40 +13,52 @@
 
 1. Android Studio
 
-![Captura Android Zoe](/capturas/captura_android_zoe.png "Android Studio")
+![Captura Android Zoe](/capturas/Gonzalez%20Rodrigue%20Zoe/captura_android_zoe.png "Android Studio")
 
 2. GitHub Desktop
 
-![Captura GitHub Zoe](/capturas/captura_github_zoe.png "GitHub Desktop")
+![Captura GitHub Zoe](/capturas/Gonzalez%20Rodrigue%20Zoe/captura_github_zoe.png "GitHub Desktop")
 
 3. Docker
 
-![Captura Docker Zoe](/capturas/captura_docker_zoe.png "Docker")
+![Captura Docker Zoe](/capturas/Gonzalez%20Rodrigue%20Zoe/captura_docker_zoe.png "Docker")
 
 ### Capturas Jacqueline
 
 1. Android Studio
+
    ![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/AndroidStudio-QuintanarBravo.png "Android Studio")
-1. Docker
+
+2. Docker
+
    ![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/Docker-QuintanarBravo.png "Docker")
-1. GitHub Desktop
+
+3. GitHub Desktop
+
    ![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/GitHubDesktop-QuintanarBravo.png "GitHub Desktop")
 
 ### Capturas Michel
 
 1. **Android Studio**
+
    ![Captura Android Michel](capturas/Android_Michel.jpg "Android Studio")
 
 2. **GitHub Desktop**
+
    ![Captura GitHub Michel](capturas/Github_Michel.jpg "GitHub Michel")
 
-
 ### Capturas Brandon
+
 1. Android Studio
+
    ![Captura Android Brandon](/capturas/Android_Brandon.png "Android Studio")
+
 2. Docker
+
    ![Captura Docker Brandon](/capturas/Doker_Brandon.png "Docker")
+
 3. GitHub Desktop
+
    ![Captura GitHub Brandon](/capturas/Github_Brandon.png "GitHub Desktop")
 
 ## Ejercicio 2: Navegación Creativa
@@ -70,6 +82,7 @@ Vazquez Michel
 -Para manejar las transiciones, utilizamos un Intent explícito que permite la navegación entre MainActivity y SecondActivity. Al presionar el botón, la actividad actual entra en estado onPause() y onStop(), mientras que la nueva actividad inicia su ciclo con onCreate() y onStart(). El uso de un Fragment permite que la interfaz sea más eficiente, ya que no se recrea toda la pantalla, solo se reemplaza el contenedor mediante un FragmentTransaction."
 
 ### Instrucciones de ejecución
+
 Clonar el repositorio desde GitHub.
 
 Abrir el proyecto en Android Studio (asegúrarse de tener instalada la versión Jellyfish o superior).
@@ -80,14 +93,16 @@ Ejecutar en un emulador con API 34 o superior, o conectar un dispositivo físico
 
 ### Capturas de Programa Funcional
 
-
 ## Ranking de Computadoras
 
-### 🥇
+### 🥇 Top 1
 
-### 🥈
+### 🥈 Top 2: PC Ryzen 5 5600X + RTX 3060
 
-### 🥉 Huawei 14 Intel Core Ultra 5
+![Captura PC Zoe](/capturas/Gonzalez%20Rodrigue%20Zoe/pc_zoe.png "PC de Zoe")
+
+### 🥉 Top 3: Huawei 14 Intel Core Ultra 5
+
 ![Captura PC Brandon](/capturas/PC_Brandon.png "PC de Brandon")
 
-Huawei 14T Intel Core I5 11th
+### Top 4: Huawei 14T Intel Core i5 11th
