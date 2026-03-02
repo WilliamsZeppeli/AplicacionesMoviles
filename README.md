@@ -78,6 +78,14 @@ FragmentGabinete: Es un componente modular que muestra la vista global del siste
 
 #### SecondActivity: MotherBoard
 
+Es la segunda pantalla de la aplicación y está dedicada al nivel intermedio de la arquitectura de hardware: la Tarjeta Madre. Su propósito es explicar al usuario cómo este componente actúa como el "sistema nervioso" de la computadora, permitiendo la conectividad y distribución de datos entre elementos esenciales como la RAM, el almacenamiento y los puertos de expansión.
+
+La interfaz se divide en secciones principales para facilitar la lectura:
+
+Barra de título: Un contenedor (LinearLayout) con fondo de color azul (#5C73B8) que muestra el título principal "Tarjeta Madre" y el subtítulo "El Sistema Nervioso de la PC".
+
+Contenido educativo (GamasMoboFragment): Un área navegable mediante un ScrollView que incluye una imagen representativa y el texto explicativo de conectividad. Dentro de esta sección se encuentra un FragmentContainerView que aloja de forma estática al GamasMoboFragment, el cual detalla la clasificación de las placas base según su gama de chipset (Entrada, Media y Alta). Al final de la vista, se ubica el botón Inspeccionar el Socket del CPU para ejecutar el Intent y avanzar a la tercera pantalla del sistema.
+
 #### ThirdActivity: CPU
 
 #### FourthActivity: ALU y Transistores
