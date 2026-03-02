@@ -90,8 +90,22 @@ La interfaz se divide en dos secciones principales:
 - **Contenido educativo** (`FourthFragment`): Un FragmentContainerView que aloja de forma estática al FourthFragment. Este fragmento contiene un ScrollView con imagenes representativas, texto explicativo y el botón de `Regresar` para volver a la pantalla principal
 
 ### Manejo de transiciones y ciclo de vida
+Para lograr una experiencia fluida y eficiente, el sistema utiliza dos mecanismos principales de Android:
+Transiciones mediante Intent Explícito
 
-Para manejar las transiciones, utilizamos un Intent explícito que permite la navegación entre MainActivity y SecondActivity. Al presionar el botón, la actividad actual entra en estado onPause() y onStop(), mientras que la nueva actividad inicia su ciclo con onCreate() y onStart(). El uso de un Fragment permite que la interfaz sea más eficiente, ya que no se recrea toda la pantalla, solo se reemplaza el contenedor mediante un FragmentTransaction.
+El flujo entre los niveles principales (como pasar del Gabinete a la Tarjeta Madre) se gestiona mediante objetos Intent explícitos. Esto garantiza una navegación directa y segura hacia las actividades destino. Al realizarse esta transición:
+
+- La actividad de origen entra en estado onPause() y onStop(), liberando recursos de interfaz.
+
+- La actividad de destino inicia su ciclo de vida con onCreate(), onStart() y onResume(), cargando los componentes necesarios para ese nivel jerárquico.
+
+  Optimización mediante Fragments
+
+Dentro de las actividades, se implementó el uso de Fragments para modularizar la interfaz. Esto permite:
+
+Eficiencia de memoria: No es necesario recrear toda la ventana de la aplicación; solo se reemplaza el contenido del contenedor mediante un FragmentTransaction.
+
+Modularidad: Cada nivel de la jerarquía puede actualizar su contenido visual de forma independiente, facilitando la integración de datos técnicos y gráficos específicos.  
 
 ### Instrucciones de ejecución
 
