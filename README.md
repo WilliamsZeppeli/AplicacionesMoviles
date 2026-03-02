@@ -55,15 +55,15 @@
 
 1. Android Studio
 
-   ![Captura Android Brandon](/capturas/Android_Brandon.png "Android Studio")
+   ![Captura Android Brandon](/capturas/Brandon%20Segura%20Vazquez/Android_Brandon.png "Android Studio")
 
 2. Docker
 
-   ![Captura Docker Brandon](/capturas/Doker_Brandon.png "Docker")
+   ![Captura Docker Brandon](/capturas/Brandon%20Segura%20Vazquez/Doker_Brandon.png "Docker")
 
 3. GitHub Desktop
 
-   ![Captura GitHub Brandon](/capturas/Github_Brandon.png "GitHub Desktop")
+   ![Captura GitHub Brandon](/capturas/Brandon%20Segura%20Vazquez/Github_Brandon.png "GitHub Desktop")
 
 </details>
 
@@ -138,7 +138,7 @@ Modularidad: Cada nivel de la jerarquía puede actualizar su contenido visual de
 
 ### 🥉 Top 3: Huawei 14 Intel Core Ultra 5
 
-![Captura PC Brandon](/capturas/PC_Brandon.png "PC de Brandon")
+![Captura PC Brandon](/capturas/Brandon%20Segura%20Vazquez/PC_Brandon.png "PC de Brandon")
 
 ### Top 4: Huawei 14T Intel Core i5 10th
 
