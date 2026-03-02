@@ -22,9 +22,9 @@ class FourthFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         val btnCambio = view.findViewById<Button>(R.id.btnRegresar)
         btnCambio.setOnClickListener {
-            val intent = Intent(requireActivity(), MainActivity::class.java) //nombre de clase provisional, cambiar cuando todo este junto
+            val intent = Intent(requireActivity(), MainActivity::class.java)
+            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
             startActivity(intent)
-            requireActivity().finish()
         }
     }
 
