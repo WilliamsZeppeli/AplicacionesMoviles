@@ -7,15 +7,16 @@
     tools:context=".FragmentGabinete">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="168dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="NIVEL 1: EL GABINETE\nEl sistema completo que integra todos los componentes de una PC."
+        android:background="#B3000000"
+        android:padding="15dp"
+        android:text="NIVEL 1:
+        EL GABINETE\nEl sistema completo que integra todos los componentes de una PC."
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="20sp"
-        android:textStyle="bold"
-        android:background="#B3000000"
-        android:padding="15dp" />
+        android:textStyle="bold" />
 
 </FrameLayout>
