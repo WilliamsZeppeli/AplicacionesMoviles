@@ -132,6 +132,7 @@ Modularidad: Cada nivel de la jerarquía puede actualizar su contenido visual de
 
 ![Captura PC Brandon](/capturas/PC_Brandon.png "PC de Brandon")
 
-### Top 4: Huawei 14T Intel Core i5 11th
+### Top 4: Huawei 14T Intel Core i5 10th
 
+![Captura PC_Michel](capturas/PC_Michel.jpg "PC de_Michel")
 </details>
