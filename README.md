@@ -99,7 +99,6 @@
 ---
 
 ## 🔹 MainActivity  
-**PC Michel Vázquez Hernández**
 
 **MainActivity:**  
 Es el punto de entrada de la aplicación. Sirve como base del primer nivel de navegación y contiene el botón para acceder al siguiente nivel.
@@ -260,21 +259,21 @@ Uso de `FragmentTransaction` para reemplazo dinámico de contenido.
 
 ---
 
-## Main Activity
+## Second Activity
 
 ![Captura Second Activity](/capturas/Programa/SecondActivity-1.png)
 ![Captura Second Activity 2](/capturas/Programa/SecondActivity-2.png)
 
 ---
 
-## Main Activity
+## Third Activity
 
 ![Captura Third Activity](/capturas/Programa/ThirdActivity-1.png)
 ![Captura Third Activity 2](/capturas/Programa/ThirdActivity-2.png)
 
 ---
 
-## Main Activity
+## Fourth Activity
 
 ![Captura Fourth Activity](/capturas/Programa/FourthActivity-1.png)
 ![Captura Fourth Activity 2](/capturas/Programa/FourthActivity-2.png)
