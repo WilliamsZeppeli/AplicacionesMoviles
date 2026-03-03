@@ -136,6 +136,52 @@ Su propósito es explicar cómo este componente actúa como el *“sistema nervi
 
 ## 🔹 ThirdActivity: CPU
 
+La tercera pantalla de la aplicación está dedicada a la **Unidad Central de Procesamiento (CPU)**, considerada el *cerebro de la computadora*.  
+
+Su función principal es explicar cómo la CPU ejecuta instrucciones, procesa datos y coordina todos los componentes del sistema.
+
+### 🎯 Propósito
+
+- Explicar qué es una CPU y su papel dentro de la arquitectura de hardware.
+- Mostrar cómo interactúa con la memoria RAM y la Tarjeta Madre.
+- Introducir conceptos clave que preparan al usuario para el siguiente nivel educativo (ALU y Transistores).
+
+---
+
+### 🧩 Estructura de la Interfaz
+
+- **Barra de título**
+  - Diseño coherente con las actividades anteriores.
+  - Título principal: *CPU — Unidad Central de Procesamiento*.
+  - Subtítulo descriptivo relacionado con el procesamiento de datos.
+
+- **Contenido educativo**
+  - Implementado mediante un `ScrollView` para permitir lectura vertical.
+  - Imagen representativa de un procesador.
+  - Texto explicativo que aborda:
+    - Función general de la CPU.
+    - Ciclo básico de instrucción (Fetch–Decode–Execute).
+    - Importancia de los núcleos y frecuencia de reloj.
+    - Relación con memoria y buses de datos.
+
+- **Botón de navegación**
+  - Permite avanzar hacia la pantalla **ALU y Transistores**.
+  - Utiliza un `Intent` explícito para realizar la transición.
+
+---
+
+### 🔄 Comportamiento y Ciclo de Vida
+
+Durante su ejecución:
+
+- La actividad se inicializa en `onCreate()`, donde se inflan los layouts y se configuran los listeners.
+- Se respetan las fases estándar del ciclo de vida:
+  - `onStart()`
+  - `onResume()`
+  - `onPause()`
+  - `onStop()`
+- La transición hacia la siguiente pantalla se realiza mediante `Intent`, garantizando navegación jerárquica y estructurada dentro de la aplicación.
+
 ---
 
 ## 🔹 FourthActivity: ALU y Transistores
