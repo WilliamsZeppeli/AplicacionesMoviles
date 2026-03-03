@@ -1,146 +1,244 @@
-# Práctica 1: "Instalación y Funcionamiento de los Entornos Móviles"
+<div align="center">
 
-## Integrantes
+# 📱 Práctica 1  
+## Instalación y Funcionamiento de los Entornos Móviles
 
-- González Rodríguez Zoe - [ZoeGR14](https://github.com/ZoeGR14)
-- Quintanar Bravo Jacqueline Williams - [WilliamsZeppelli](https://github.com/WilliamsZeppeli)
-- Vázquez Hernández Michel - [Jimmysito316](https://github.com/Jimmysito316)
-- Vazquez Segura Brandon - [PandaKiller05](https://github.com/PandaKiller05)
+![Android](https://img.shields.io/badge/Android-API%2034+-3DDC84?style=for-the-badge&logo=android)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-Jellyfish+-3DDC84?style=for-the-badge&logo=androidstudio)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-Installed-2496ED?style=for-the-badge&logo=docker)
 
-   
-## Ejercicio 1: Instalación de Herramientas
+</div>
+
+---
+
+## 📑 Tabla de Contenido
+
+- [👥 Integrantes](#-integrantes)
+- [🛠 Ejercicio 1: Instalación de Herramientas](#-ejercicio-1-instalación-de-herramientas)
+- [🧭 Ejercicio 2: Navegación Creativa](#-ejercicio-2-navegación-creativa)
+- [🔄 Manejo de Transiciones y Ciclo de Vida](#-manejo-de-transiciones-y-ciclo-de-vida)
+- [▶ Instrucciones de Ejecución](#-instrucciones-de-ejecución)
+- [🏆 Ranking de Computadoras](#-ranking-de-computadoras)
+
+---
+
+# 👥 Integrantes
+
+| Nombre | Usuario GitHub |
+|--------|----------------|
+| González Rodríguez Zoe | [ZoeGR14](https://github.com/ZoeGR14) |
+| Quintanar Bravo Jacqueline Williams | [WilliamsZeppelli](https://github.com/WilliamsZeppeli) |
+| Vázquez Hernández Michel | [Jimmysito316](https://github.com/Jimmysito316) |
+| Vazquez Segura Brandon | [PandaKiller05](https://github.com/PandaKiller05) |
+
+---
+
+# 🛠 Ejercicio 1: Instalación de Herramientas
 
 <details>
-<summary>📸 Ver capturas</summary>
-   
-### Capturas Zoe
+<summary><strong>📸 Ver capturas</strong></summary>
 
-1. Android Studio
+---
 
-![Captura Android Zoe](/capturas/Gonzalez%20Rodrigue%20Zoe/captura_android_zoe.png "Android Studio")
+## 👩‍💻 Capturas Zoe
 
-2. GitHub Desktop
+**1️⃣ Android Studio**  
+![Captura Android Zoe](/capturas/Gonzalez%20Rodriguez%20Zoe/captura_android_zoe.png)
 
-![Captura GitHub Zoe](/capturas/Gonzalez%20Rodrigue%20Zoe/captura_github_zoe.png "GitHub Desktop")
+**2️⃣ GitHub Desktop**  
+![Captura GitHub Zoe](/capturas/Gonzalez%20Rodriguez%20Zoe/captura_github_zoe.png)
 
-3. Docker
+**3️⃣ Docker**  
+![Captura Docker Zoe](/capturas/Gonzalez%20Rodriguez%20Zoe/captura_docker_zoe.png)
 
-![Captura Docker Zoe](/capturas/Gonzalez%20Rodrigue%20Zoe/captura_docker_zoe.png "Docker")
+---
 
-### Capturas Jacqueline
+## 👩‍💻 Capturas Jacqueline
 
-1. Android Studio
+**1️⃣ Android Studio**  
+![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/AndroidStudio-QuintanarBravo.png)
 
-   ![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/AndroidStudio-QuintanarBravo.png "Android Studio")
+**2️⃣ Docker**  
+![Captura Docker Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/Docker-QuintanarBravo.png)
 
-2. Docker
+**3️⃣ GitHub Desktop**  
+![Captura GitHub Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/GitHubDesktop-QuintanarBravo.png)
 
-   ![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/Docker-QuintanarBravo.png "Docker")
+---
 
-3. GitHub Desktop
+## 👨‍💻 Capturas Michel
 
-   ![Captura Android Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/GitHubDesktop-QuintanarBravo.png "GitHub Desktop")
+**1️⃣ Android Studio**  
+![Captura Android Michel](capturas/Android_Michel.jpg)
 
-### Capturas Michel
+**2️⃣ GitHub Desktop**  
+![Captura GitHub Michel](capturas/Github_Michel.jpg)
 
-1. **Android Studio**
+---
 
-   ![Captura Android Michel](capturas/Android_Michel.jpg "Android Studio")
+## 👨‍💻 Capturas Brandon
 
-2. **GitHub Desktop**
+**1️⃣ Android Studio**  
+![Captura Android Brandon](/capturas/Segura%20Vazquez%20Brandon/Android_Brandon.png)
 
-   ![Captura GitHub Michel](capturas/Github_Michel.jpg "GitHub Michel")
+**2️⃣ Docker**  
+![Captura Docker Brandon](/capturas/Segura%20Vazquez%20Brandon/Doker_Brandon.png)
 
-### Capturas Brandon
-
-1. Android Studio
-
-   ![Captura Android Brandon](/capturas/Brandon%20Segura%20Vazquez/Android_Brandon.png "Android Studio")
-
-2. Docker
-
-   ![Captura Docker Brandon](/capturas/Brandon%20Segura%20Vazquez/Doker_Brandon.png "Docker")
-
-3. GitHub Desktop
-
-   ![Captura GitHub Brandon](/capturas/Brandon%20Segura%20Vazquez/Github_Brandon.png "GitHub Desktop")
+**3️⃣ GitHub Desktop**  
+![Captura GitHub Brandon](/capturas/Segura%20Vazquez%20Brandon/Github_Brandon.png)
 
 </details>
 
-## Ejercicio 2: Navegación Creativa
+---
 
-### Descripción de Activities
+# 🧭 Ejercicio 2: Navegación Creativa
 
-#### MainActivity: PC Michel Vazquez Hernandez
+## 🏗 Descripción de Activities
 
-MainActivity: Es el punto de entrada de la aplicación. Su función principal es servir como base para el primer nivel de navegación y contener el botón de acceso al siguiente nivel.
-FragmentGabinete: Es un componente modular que muestra la vista global del sistema (Gabinete). Contiene la información visual del hardware externo y se carga dinámicamente al iniciar la app.
+---
 
-#### SecondActivity: MotherBoard
+## 🔹 MainActivity  
+**PC Michel Vázquez Hernández**
 
-Es la segunda pantalla de la aplicación y está dedicada al nivel intermedio de la arquitectura de hardware: la Tarjeta Madre. Su propósito es explicar al usuario cómo este componente actúa como el "sistema nervioso" de la computadora, permitiendo la conectividad y distribución de datos entre elementos esenciales como la RAM, el almacenamiento y los puertos de expansión.
+**MainActivity:**  
+Es el punto de entrada de la aplicación. Sirve como base del primer nivel de navegación y contiene el botón para acceder al siguiente nivel.
 
-La interfaz se divide en secciones principales para facilitar la lectura:
+**FragmentGabinete:**  
+Componente modular que muestra la vista global del sistema (Gabinete). Se carga dinámicamente al iniciar la aplicación.
 
-Barra de título: Un contenedor (LinearLayout) con fondo de color azul (#5C73B8) que muestra el título principal "Tarjeta Madre" y el subtítulo "El Sistema Nervioso de la PC".
+---
 
-Contenido educativo (GamasMoboFragment): Un área navegable mediante un ScrollView que incluye una imagen representativa y el texto explicativo de conectividad. Dentro de esta sección se encuentra un FragmentContainerView que aloja de forma estática al GamasMoboFragment, el cual detalla la clasificación de las placas base según su gama de chipset (Entrada, Media y Alta). Al final de la vista, se ubica el botón Inspeccionar el Socket del CPU para ejecutar el Intent y avanzar a la tercera pantalla del sistema.
+## 🔹 SecondActivity: MotherBoard
 
-#### ThirdActivity: CPU
+Segunda pantalla dedicada a la **Tarjeta Madre**, nivel intermedio de la arquitectura de hardware.
 
-#### FourthActivity: ALU y Transistores
+Su propósito es explicar cómo este componente actúa como el *“sistema nervioso”* de la computadora, permitiendo la conectividad entre RAM, almacenamiento y puertos de expansión.
 
-Es la cuarta pantalla de la aplicación y está dedicada al tema educativo "ALU y Transistores — El nivel atómico de la computación". Su propósito es presentar al usuario información sobre la Unidad Aritmético-Lógica (ALU), las compuertas lógicas y los transistores que componen los procesadores modernos.
+### 🧩 Estructura
 
-La interfaz se divide en dos secciones principales:
+- **Barra de título (`LinearLayout`)**
+  - Fondo: `#5C73B8`
+  - Título: *Tarjeta Madre*
+  - Subtítulo: *El Sistema Nervioso de la PC*
 
-- **Barra de título**: Un ConstraintLayout con fondo de color (#5C72B8) que muestra el título "ALU y Transistores" y el subtítulo "El nivel atómico de la computación".
-- **Contenido educativo** (`FourthFragment`): Un FragmentContainerView que aloja de forma estática al FourthFragment. Este fragmento contiene un ScrollView con imagenes representativas, texto explicativo y el botón de `Regresar` para volver a la pantalla principal
+- **Contenido educativo (`GamasMoboFragment`)**
+  - `ScrollView`
+  - Imagen representativa
+  - Texto explicativo
+  - Clasificación por gama:
+    - Entrada
+    - Media
+    - Alta
+  - Botón **“Inspeccionar el Socket del CPU”** (Intent explícito)
 
-### Manejo de transiciones y ciclo de vida
-Para lograr una experiencia fluida y eficiente, el sistema utiliza dos mecanismos principales de Android:
-Transiciones mediante Intent Explícito
+---
 
-El flujo entre los niveles principales (como pasar del Gabinete a la Tarjeta Madre) se gestiona mediante objetos Intent explícitos. Esto garantiza una navegación directa y segura hacia las actividades destino. Al realizarse esta transición:
+## 🔹 ThirdActivity: CPU
 
-- La actividad de origen entra en estado onPause() y onStop(), liberando recursos de interfaz.
+---
 
-- La actividad de destino inicia su ciclo de vida con onCreate(), onStart() y onResume(), cargando los componentes necesarios para ese nivel jerárquico.
+## 🔹 FourthActivity: ALU y Transistores
 
-  Optimización mediante Fragments
+Pantalla educativa titulada:
 
-Dentro de las actividades, se implementó el uso de Fragments para modularizar la interfaz. Esto permite:
+> **ALU y Transistores — El nivel atómico de la computación**
 
-Eficiencia de memoria: No es necesario recrear toda la ventana de la aplicación; solo se reemplaza el contenido del contenedor mediante un FragmentTransaction.
+Presenta información sobre:
 
-Modularidad: Cada nivel de la jerarquía puede actualizar su contenido visual de forma independiente, facilitando la integración de datos técnicos y gráficos específicos.  
+- Unidad Aritmético-Lógica (ALU)
+- Compuertas lógicas
+- Transistores modernos
 
-### Instrucciones de ejecución
+### 🧩 Estructura
+
+- **Barra de título (`ConstraintLayout`)**
+  - Fondo: `#5C72B8`
+  - Título y subtítulo
+
+- **Contenido (`FourthFragment`)**
+  - `ScrollView`
+  - Imágenes representativas
+  - Texto explicativo
+  - Botón **Regresar**
+
+---
+
+# 🔄 Manejo de Transiciones y Ciclo de Vida
+
+## 🚀 Intents Explícitos
+
+Transición entre actividades mediante `Intent`.
+
+**Actividad origen:**
+- `onPause()`
+- `onStop()`
+
+**Actividad destino:**
+- `onCreate()`
+- `onStart()`
+- `onResume()`
+
+---
+
+## 🧱 Uso de Fragments
+
+### ✔ Ventajas
+
+- **Eficiencia de memoria**
+- **Modularidad**
+- **Actualización independiente de vistas**
+
+Uso de `FragmentTransaction` para reemplazo dinámico de contenido.
+
+---
+
+# ▶ Instrucciones de Ejecución
 
 1. Clonar el repositorio desde GitHub.
-2. Abrir el proyecto en Android Studio (asegúrarse de tener instalada la versión Jellyfish o superior).
-3. Sincronizar el proyecto con los archivos de Gradle.
-4. Ejecutar en un emulador con API 34 o superior, o conectar un dispositivo físico mediante Depuración USB.
+2. Abrir el proyecto en Android Studio (Jellyfish o superior).
+3. Sincronizar con Gradle.
+4. Ejecutar en:
+   - Emulador API 34+
+   - Dispositivo físico con Depuración USB habilitada.
 
-### Capturas de Programa Funcional
+---
 
-## Ranking de Computadoras
+# 🏆 Ranking de Computadoras
 
 <details>
+<summary><strong>📸 Ver ranking</strong></summary>
 
-<summary>📸 Ver ranking</summary>
+---
 
-### 🥇 Top 1
+## 🥇 Top 1
 
-### 🥈 Top 2: PC Ryzen 5 5600X + RTX 3060
+![Captura PC Jacqueline](/capturas/Quintanar%20Bravo%20Jacqueline%20Williams/PC-QuintanarBravo.png)
 
-![Captura PC Zoe](/capturas/Gonzalez%20Rodrigue%20Zoe/pc_zoe.png "PC de Zoe")
+---
 
-### 🥉 Top 3: Huawei 14 Intel Core Ultra 5
+## 🥈 Top 2: PC Ryzen 5 5600X + RTX 3060
 
-![Captura PC Brandon](/capturas/Brandon%20Segura%20Vazquez/PC_Brandon.png "PC de Brandon")
+![Captura PC Zoe](/capturas/Gonzalez%20Rodriguez%20Zoe/pc_zoe.png)
 
-### Top 4: Huawei 14T Intel Core i5 10th
+---
 
-![Captura PC_Michel](capturas/PC_Michel.jpg "PC de_Michel")
+## 🥉 Top 3: Huawei 14 Intel Core Ultra 5
+
+![Captura PC Brandon](/capturas/Segura%20Vazquez%20Brandon/PC_Brandon.png)
+
+---
+
+## 🎖 Top 4: Huawei 14T Intel Core i5 10th
+
+![Captura PC Michel](capturas/PC_Michel.jpg)
+
 </details>
+
+---
+
+<div align="center">
+
+### 🚀 Proyecto Académico — Desarrollo de Entornos Móviles con Android
+
+</div>
