@@ -1,4 +1,5 @@
 package com.example.practica1
+
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
@@ -10,11 +11,14 @@ class SecondActivity : AppCompatActivity() {
         setContentView(R.layout.activity_mobo)
 
         val btnInspectCPU = findViewById<Button>(R.id.btnInspectCPU)
-
         btnInspectCPU.setOnClickListener {
-
             val intent = Intent(this, ThirdActivity::class.java)
             startActivity(intent)
+        }
+
+        val btnRegresarPC = findViewById<Button>(R.id.btnRegresarPC)
+        btnRegresarPC.setOnClickListener {
+            finish()
         }
     }
 }
