@@ -136,51 +136,21 @@ Su propósito es explicar cómo este componente actúa como el *“sistema nervi
 
 ## 🔹 ThirdActivity: CPU
 
-La tercera pantalla de la aplicación está dedicada a la **Unidad Central de Procesamiento (CPU)**, considerada el *cerebro de la computadora*.  
+Es la tercera pantalla de la aplicación y está dedicada al nivel de la **Unidad Central de Procesamiento (CPU)**, componente encargado de ejecutar instrucciones y coordinar el funcionamiento general del sistema.
 
-Su función principal es explicar cómo la CPU ejecuta instrucciones, procesa datos y coordina todos los componentes del sistema.
+Esta pantalla funciona como punto intermedio entre **SecondActivity (MotherBoard)** y **FourthActivity (ALU y Transistores)**, manteniendo la jerarquía educativa del proyecto.
 
-### 🎯 Propósito
+La arquitectura se compone de:
 
-- Explicar qué es una CPU y su papel dentro de la arquitectura de hardware.
-- Mostrar cómo interactúa con la memoria RAM y la Tarjeta Madre.
-- Introducir conceptos clave que preparan al usuario para el siguiente nivel educativo (ALU y Transistores).
+- **ThirdActivity:**  
+  Actúa como contenedor principal. Implementa diseño *edge-to-edge* mediante `enableEdgeToEdge()`, infla el layout `activity_third` y ajusta automáticamente los márgenes según las barras del sistema utilizando `WindowInsetsCompat`.
 
----
+- **ThirdFragment:**  
+  Se encarga de la lógica de interacción. Dentro de `onViewCreated()` configura dos botones:
+  - `btnBack`: Regresa a **SecondActivity** mediante un `Intent` explícito.
+  - `btnNext`: Avanza a **FourthActivity** mediante un `Intent` explícito.
 
-### 🧩 Estructura de la Interfaz
-
-- **Barra de título**
-  - Diseño coherente con las actividades anteriores.
-  - Título principal: *CPU — Unidad Central de Procesamiento*.
-  - Subtítulo descriptivo relacionado con el procesamiento de datos.
-
-- **Contenido educativo**
-  - Implementado mediante un `ScrollView` para permitir lectura vertical.
-  - Imagen representativa de un procesador.
-  - Texto explicativo que aborda:
-    - Función general de la CPU.
-    - Ciclo básico de instrucción (Fetch–Decode–Execute).
-    - Importancia de los núcleos y frecuencia de reloj.
-    - Relación con memoria y buses de datos.
-
-- **Botón de navegación**
-  - Permite avanzar hacia la pantalla **ALU y Transistores**.
-  - Utiliza un `Intent` explícito para realizar la transición.
-
----
-
-### 🔄 Comportamiento y Ciclo de Vida
-
-Durante su ejecución:
-
-- La actividad se inicializa en `onCreate()`, donde se inflan los layouts y se configuran los listeners.
-- Se respetan las fases estándar del ciclo de vida:
-  - `onStart()`
-  - `onResume()`
-  - `onPause()`
-  - `onStop()`
-- La transición hacia la siguiente pantalla se realiza mediante `Intent`, garantizando navegación jerárquica y estructurada dentro de la aplicación.
+En ambos casos se utiliza `finish()` para cerrar la actividad actual, manteniendo una navegación lineal y evitando acumulación innecesaria en el back stack., garantizando navegación jerárquica y estructurada dentro de la aplicación.
 
 ---
 
@@ -282,9 +252,38 @@ Uso de `FragmentTransaction` para reemplazo dinámico de contenido.
 </details>
 
 ---
+### 📲 Capturas de pantalla del programa funcionando
 
+## Main Activity
+
+![Captura Docker Zoe](/capturas/Programa/MainActivity-1.png)
+
+---
+
+## Main Activity
+
+![Captura Second Activity](/capturas/Programa/SecondActivity-1.png)
+![Captura Second Activity 2](/capturas/Programa/SecondActivity-2.png)
+
+---
+
+## Main Activity
+
+![Captura Third Activity](/capturas/Programa/ThirdActivity-1.png)
+![Captura Third Activity 2](/capturas/Programa/ThirdActivity-2.png)
+
+---
+
+## Main Activity
+
+![Captura Fourth Activity](/capturas/Programa/FourthActivity-1.png)
+![Captura Fourth Activity 2](/capturas/Programa/FourthActivity-2.png)
+
+---
 <div align="center">
 
 ### 🚀 Proyecto Académico — Desarrollo de Entornos Móviles con Android
 
 </div>
+
+
